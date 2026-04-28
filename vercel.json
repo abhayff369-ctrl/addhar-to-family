@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/api/family", "dest": "/api/family.js" }
+  ]
+}
